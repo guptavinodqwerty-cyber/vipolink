@@ -96,4 +96,3 @@ def send_via_ses():
 
 if __name__ == "__main__":
     send_via_ses()
-name = "vinod gupta"
